@@ -19,4 +19,8 @@
         "black"
     ],
     "editor.detectIndentation": false,
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.cwd": "${workspaceFolder}"
 }
